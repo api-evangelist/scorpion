@@ -1,8 +1,29 @@
 aid: scorpion
 name: Scorpion
-description: Scorpion is a company surfaced as a portfolio company of lightspeed-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Scorpion is an American marketing technology company that provides revenue-focused
+  advertising, marketing, and software services to local and multi-location businesses
+  in home services, legal, franchise, and healthcare verticals. Founded in 2001 by
+  Rustin Kretz and headquartered in Salt Lake City, Utah (with major operations in
+  Valencia, California), Scorpion pairs done-for-you digital advertising and SEO with
+  its own AI-driven platform. In 2024 it launched RevenueMAX, an AI marketing platform
+  built on Scorpion AI that aligns marketing spend, intake, and long-term revenue, and
+  in 2025 it introduced Scorpion Convert, an AI intake-and-conversion product that
+  automates response, scheduling, and voice/messaging engagement for missed leads.
+  Scorpion is a services-and-platform provider; it does not publish a public developer
+  API, developer portal, or SDKs.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.scorpion.co/assets/social/social-share.jpg.webp
 url: https://raw.githubusercontent.com/api-evangelist/scorpion/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +33,38 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Marketing
+- Advertising
+- Digital Marketing
+- SEO
+- Lead Generation
+- Local Business
+- Home Services
+- Legal
+- Franchise
+- Healthcare
+- Artificial Intelligence
+- SaaS
 apis: []
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
+common:
+- type: DomainSecurity
+  url: security/scorpion-domain-security.yml
+- type: Website
+  url: https://www.scorpion.co
+- type: Blog
+  url: https://www.scorpion.co/about-us/scorpion-news/
+- type: SignUp
+  url: https://www.scorpion.co/get-started/
+- type: PrivacyPolicy
+  url: https://www.scorpion.co/privacy-policy/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
