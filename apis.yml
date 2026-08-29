@@ -12,6 +12,17 @@ description: >-
   automates response, scheduling, and voice/messaging engagement for missed leads.
   Scorpion is a services-and-platform provider; it does not publish a public developer
   API, developer portal, or SDKs.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
