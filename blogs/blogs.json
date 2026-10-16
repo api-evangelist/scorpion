@@ -2,10 +2,13 @@
   "repo": "scorpion",
   "feeds": [
     {
-      "source": "https://www.scorpion.co",
-      "error": "HTTPError"
+      "source": "https://www.scorpion.co/about-us/scorpion-news/",
+      "feed_url": "https://www.scorpion.co/about-us/scorpion-news/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
